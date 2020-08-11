@@ -15,10 +15,16 @@ h3{
   color: hsl(234, 12%, 34%);
   font-weight: 600;
 }
-
+/* Title heading */
 .title{
   margin: 0 35px 20px 0;
 
+}
+
+.title-paragraph{
+  width: 75%;
+  text-align: center;
+  margin-left: 70px;
 }
 
 .title-heading1{
@@ -39,6 +45,7 @@ h3{
 
 }
 
+/* Middle Section*/
 .second-container{
 padding-bottom: 50%;
 margin: auto;
@@ -80,11 +87,7 @@ border-top-color: hsl(212, 86%, 64%);
 }
 
 
-.title-paragraph{
-  width: 75%;
-  text-align: center;
-  margin-left: 70px;
-}
+/* Footer Section */
 
 .attribution {
   font-size: 11px;
@@ -95,15 +98,14 @@ border-top-color: hsl(212, 86%, 64%);
   color: hsl(228, 45%, 44%);
 }
 
-@@media (max-width: 1028px) {
+/* Mobile View Section */
+@@media (max-width: 375px) {
 
   .title-heading1{
     text-align: center;
     width: 50%
   }
 
-  .card{
-    position: static;
-  }
+
 
 }
