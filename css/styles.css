@@ -1,0 +1,109 @@
+body{
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+  color: hsl(229, 6%, 66%);
+   width: 1440px;
+
+}
+
+img{
+  float: right;
+}
+
+h3{
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+}
+
+.title{
+  margin: 0 35px 20px 0;
+
+}
+
+.title-heading1{
+  font-weight: 200;
+  color: hsl(234, 12%, 34%);
+}
+
+.title-heading2{
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+.first-container{
+  text-align: center;
+  width: 50%;
+  margin:auto;
+  padding-top: 5%;
+
+}
+
+.second-container{
+padding-bottom: 50%;
+margin: auto;
+}
+
+
+
+/* card positions */
+.card{
+ position: absolute;
+text-align: left;
+border-radius: 25px;
+border-top: 5px solid;
+
+}
+
+.top-container{
+left: 33%;
+top: 40%;
+border-top-color: hsl(0, 78%, 62%);
+}
+
+.bottom-container{
+  left: 33%;
+  top: 77%;
+  border-top-color: hsl(34, 97%, 64%);
+}
+
+.left-container{
+top: 60%;
+left: 5%;
+border-top-color: hsl(180, 62%, 55%);
+}
+
+.right-container{
+top: 60%;
+left: 61%;
+border-top-color: hsl(212, 86%, 64%);
+}
+
+
+.title-paragraph{
+  width: 75%;
+  text-align: center;
+  margin-left: 70px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+@@media (max-width: 1028px) {
+
+  .title-heading1{
+    text-align: center;
+    width: 50%
+  }
+
+  .card{
+    position: static;
+  }
+
+}
