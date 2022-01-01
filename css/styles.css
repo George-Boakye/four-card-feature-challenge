@@ -110,18 +110,17 @@ body{
 footer{
   position: relative;
   top:180%;
-  left: 10%;
+  left: 20%;
  
 }
 .first-container{
   position: relative;
-  left: -10%;
   width: 160%;
   font-size: smaller;
 }
 .second-container{
   position: absolute;
-  left: 10%;
+  left: 20%;
  
 }
 .left-container{
