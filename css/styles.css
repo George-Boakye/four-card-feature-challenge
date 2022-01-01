@@ -99,7 +99,7 @@ border-top-color: hsl(212, 86%, 64%);
 }
 
 /* Mobile View Section */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 480px) {
 body{
   position:relative;
   width: 375px;
