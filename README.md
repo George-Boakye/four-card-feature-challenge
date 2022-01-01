@@ -30,7 +30,7 @@ Users should be able to:
 - Build out this feature section and get it looking as close to the design as possible
 
 ### Screenshot
-![](./design/four-card-ss.png)
+![](./design/four-cad-ss.png)
 ### Links
 
 - Solution URL: [github](https://github.com/Mistok98/four-card-feature-challenge)
@@ -47,7 +47,7 @@ Users should be able to:
 
 
 ### Useful resources
--[Bootsrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - This helped me we the card designs
+- [Bootsrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - This helped me we the card designs
 - [MDN](https://developer.mozilla.org/) - This helped me in learning CSS specificity.
 - [Freecodecamp](https://www.freecodecamp.org/news/css-positioning-position-absolute-and-relative/) - This is an amazing article which helped me finally understand CSS positioning. I'd recommend it to anyone still learning this concept.
 
